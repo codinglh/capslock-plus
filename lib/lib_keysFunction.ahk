@@ -110,6 +110,16 @@ keyFunc_delete(){
     Return
 }
 
+keyFunc_deleteWordLeft(){
+    SendInput,^{backspace}
+    Return
+}
+
+keyFunc_deleteWordRight(){
+    SendInput,^{delete}
+    Return
+}
+
 
 keyFunc_translate(){
     global
