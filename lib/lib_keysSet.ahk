@@ -28,8 +28,8 @@ if(!keyset.caps_j)
     keyset.caps_j:="keyFunc_backspace"
 if(!keyset.caps_k)
     keyset.caps_k:="keyFunc_home"
-if(!keyset.caps_l)
-    keyset.caps_l:="keyFunc_delete"
+if(!keyset.caps_m)
+    keyset.caps_m:="keyFunc_delete"
 if(!keyset.caps_s)
     keyset.caps_s:="keyFunc_moveLeft"
 if(!keyset.caps_comma)
